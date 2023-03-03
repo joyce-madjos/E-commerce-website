@@ -8,5 +8,5 @@ Date Written: June 28, 2021
 
 Bootstrap
 
-JD Couture Youtube Presentation: https://youtu.be/FBECYuFm3mw
-JD Couture Website: https://jdcouture-7f04a.web.app
+- JD Couture Youtube Presentation: https://youtu.be/FBECYuFm3mw
+- JD Couture Website: https://jdcouture-7f04a.web.app
