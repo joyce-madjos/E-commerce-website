@@ -2,8 +2,8 @@
 This is a school project for my 2nd year subject CS Free Elective 2 - E-commerce.
 
 Programmers:
-* Madjos, Joyce A.
 * Bautista, Dianne Beatriz F. 
+* Madjos, Joyce A.
 
 Date Written: June 28, 2021
 
